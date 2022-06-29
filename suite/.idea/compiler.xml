@@ -12,6 +12,8 @@
         <module name="service" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="18" />
+    <bytecodeTargetLevel target="18">
+      <module name="console (1) (com.alexenderboot.maven)" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
